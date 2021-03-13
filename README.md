@@ -39,10 +39,16 @@ Alte teste pana in 10^6 numere:
 
 
 ### CountingSort
-* 
-*
-*
-*
+* attempt 1: 0.09075641632080078 sec
+* attempt 2: 0.09076118469238281 sec
+* attempt 3: 0.05585336685180664 sec
+* attempt 4: 0.04288601875305176 sec
+
+Alte teste pana in 10^6 numere:
+* attempt 1: 0.2383410930633545
+* attempt 2: 0.2852764129638672
+* attempt 3: 0.23732447624206543
+* attempt 4: 0.30518412590026855
 
 ### QuickSort
 * attempt 1: 0.1356372833251953 sec

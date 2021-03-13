@@ -22,6 +22,7 @@ start = time.time()
 # bigList = MergeSort.mergeSort(bigList, 0, len(bigList) - 1)
 # bigList = QuickSort.quickSort(bigList, 0, len(bigList) - 1)
 # bigList = bigList.sort()
+bigList = CountSort.countSort(bigList)
 print("L-am sortat in %s", (time.time() - start))
 
 # PANA LA 100 DE MII:
@@ -31,6 +32,14 @@ attempt 1: 0.5565476417541504
 attempt 2: 0.891913652420044
 attempt 3: 0.8103981018066406
 attempt 4: 0.20159316062927246
+"""
+
+"""
+attempt-uri countingSort
+attempt 1: 0.09075641632080078
+attempt 2: 0.09076118469238281
+attempt 3: 0.05585336685180664
+attempt 4: 0.04288601875305176
 """
 
 """
@@ -64,6 +73,14 @@ attempt 1: 37.51306509971619
 attempt 2: 2.699028491973877
 attempt 3: 0.9694392681121826
 attempt 4: 13.899415731430054
+"""
+
+"""
+attempt uri countingSort:
+attempt 1: 0.2383410930633545
+attempt 2: 0.2852764129638672
+attempt 3: 0.23732447624206543
+attempt 4: 0.30518412590026855
 """
 
 """

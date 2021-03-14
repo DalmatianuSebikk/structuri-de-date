@@ -1,4 +1,4 @@
-# structuri-de-date - teme de laborator
+# structuri-de-date - teme de laborator Sebastian Ionel
 
 ## Laboratorul 1: Sortari
 

@@ -10,7 +10,7 @@ Am implementat urmatoarele sortari:
 * Quicksort 
 + un generator de solutii si compararea cu sortul implementat in python.
 
-### Timpi rezultati din 4 attepmt-uri pentru fiecare sortare (exceptie BubbleSort, BubbleSort este EXTREM de incet in Python, am stat 10 minute cu terminalul pornit si nu a terminat)
+### Timpi rezultati din 4 attempt-uri pentru fiecare sortare (exceptie BubbleSort, BubbleSort este EXTREM de incet in Python, am stat 10 minute cu terminalul pornit si nu a terminat)
 
 ### BucketSort
 * attempt 1: 0.5565476417541504 sec

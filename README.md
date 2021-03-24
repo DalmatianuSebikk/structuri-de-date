@@ -3,11 +3,11 @@
 ## Laboratorul 1: Sortari
 
 Am implementat urmatoarele sortari:
-* BubbleSort 
-* BucketSort
-* CountSort
-* MergeSort
-* Quicksort 
+* BubbleSort O(n^2)
+* BucketSort O(nlogn)
+* CountSort  O(n + k)
+* MergeSort  O(nlogn)
+* Quicksort  O(nlogn) / Doamne fereste O(n^2)
 + un generator de solutii si compararea cu sortul implementat in python.
 
 ### Timpi rezultati din 4 attempt-uri pentru fiecare sortare (exceptie BubbleSort, BubbleSort este EXTREM de incet in Python, am stat 10 minute cu terminalul pornit si nu a terminat)
